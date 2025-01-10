@@ -56,3 +56,45 @@ nav{
     color: #ffffff;
     border-radius: 8px;
 }
+/* Main Styles */
+main{
+    max-width: 1140px;
+    padding: 0 150px;
+    margin: 50px auto;
+}
+.purpose-container{
+    text-align: center;
+    margin: 70px auto;
+}
+.purpose-subtitle{
+    margin-bottom: 80px;
+}
+.purpose-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: justify;
+    margin-top: 30px;
+}
+.purpose-items button{
+    padding: 12px 20px;
+    color: #0D1321;
+    background-color: #ffffff;
+    font-weight: 600;
+}
+.purpose-content{
+    width: 75%;
+}
+.purpose-desc{
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.inspiration-title{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+.inspiration-desc{
+    text-align: center;
+    margin: 20px;
+}
